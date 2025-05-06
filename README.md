@@ -3,7 +3,7 @@
 2. [Project Motivation](#projectmotivation)
 3. [File Descriptions](#filedescriptions)
 4. [Results](#results)
-5. [Licensing, Authors, Acknowledgements[#acknowledgements]
+5. [Licensing, Authors, Acknowledgements](#acknowledgements)
 
 
 # Installation <a name="installation"></a>
