@@ -9,7 +9,7 @@
 # Installation <a name="installation"></a>
 You will need the following libraries: **pandas**, **numpy**, **matplotlib.pyplot**, **seaborn**, and **sklearn**.
 
-# Project Motivation <a name="project motivation"></a>
+# Project Motivation <a name="projectmotivation"></a>
 For this project, I was interested in seeing if we could predict poverty rates for a country with some other health metrics. The features I originally had were: unemployment rate, birth rate, literacy rate, and overweight adults (%). I did drop the overweight adults feature, as it was not filled in well.
 
 # File Descriptions <a name="filedescriptions"></a>
